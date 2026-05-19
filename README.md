@@ -1,196 +1,536 @@
+<div align="center">
 
-#  All of My Projects
+# 🚀 My Projects Portfolio
 
+[![GitHub](https://img.shields.io/badge/GitHub-sedatbilece-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sedatbilece)
 
-33-)SignalR Restaurant Project (.Net Core Api-MVC)
->This project encompasses a basic CRUDoperations application, coupled with real-time updating of frontend pages using SignalR .
+</div>
 
-[GO to Project  ](https://github.com/sedatbilece/SignalRProject)
-***
+---
 
-32-)Turkis Number To Integer Converter API  (.Net Core)
->This API replaces numbers written in various conditions and formats with their numerical equivalents.
+<table>
 
-[GO to Project  ](https://github.com/sedatbilece/TurkishNumberToIntegerConverterAPI)
-***
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/Flow%20Launcher%20Terminal%20Shortcuts%20Plugin.png" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
 
-31-)LawFirmTemplate  (.Net Core )
->The aim is to develop a project based on the promotion of law and law firms using .Net Core MVC. It includes dynamic features fields .
+### ⭐ Flow Launcher Terminal Shortcuts Plugin
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![Flow Launcher](https://img.shields.io/badge/Flow_Launcher-Plugin-blueviolet?style=flat-square)
 
-[GO to Project  ](https://github.com/sedatbilece/LawFirmTemplate)
-***
+A Flow Launcher plugin that opens a terminal in a configured directory and optionally runs a command when an abbreviation is typed.
 
-30-)MicroService-CourseApp  (.Net Core)
->It is a microservice project for purchasing courses and other related transactions .
+[→ View Project](https://github.com/sedatbilece/Flow.Launcher.Plugin.TerminalShortcuts)
 
-[GO to Project  ](https://github.com/sedatbilece/MicroServices-CourseApp)
-***
+</td>
+</tr></table>
+</td></tr>
 
-29-)ElasticSearch based API (.Net Core)
->The implementation of making requests to Elasticsearch via Nest library on .NET Core has been completed.
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/YT%20Music%20Playlist%20Downloader.png" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
 
-[GO to Project  ](https://github.com/sedatbilece/ElasticSearchWithNet)
-***
+### ⭐ YT Music Playlist Downloader
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![Desktop](https://img.shields.io/badge/Windows_Desktop-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-28-)RabbitMQ Watermark App and Excel App (.Net Core)
->In this project, communication was practiced using RabbitMQ with BackgroundService for WatermarkApp and WorkerService for ExcelApp.
+Windows desktop app that downloads YouTube & YouTube Music playlists as MP3 files using yt-dlp and ffmpeg.
 
-[GO to Project  ](https://github.com/sedatbilece/RabbitMQ-Apps)
-***
+[→ View Project](https://github.com/sedatbilece/YTMusicPlaylistDownloader)
 
-27-)WebLinkSearcher (Console App)
->This console app read a page and search for links on the web
+</td>
+</tr></table>
+</td></tr>
 
-[GO to Project  ](https://github.com/sedatbilece/WebLinkSearcher)
-***
+<tr><td>
 
-26-)Identity MVC Membership App (.Net Core MVC)
->This is a sample application that demonstrates how to use the .Net Core Identity Membership system
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
 
-[GO to Project  ](https://github.com/sedatbilece/.Net-Core-Identity-MVC)
-***
+### ⭐ Workout Tracker
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-25-)Entity Framework Core 6 (.Net Core)
->This repository contains the code samples and exercises for learning Entity Framework Core
+Native iOS application for tracking workout activities, built with Swift.
 
-[GO to Project  ](https://github.com/sedatbilece/Entity-Framework-Core-6)
-***
+[→ View Project](https://github.com/sedatbilece/workout-tracker)
 
-24-)Onboarding Library (React)
->This project includes the processes done with the trainee team during the internship
+</td></tr>
 
-[GO to Project  ](https://github.com/sedatbilece/jotform-internteam-project)
-***
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/SignalR%20Restaurant%20Project.gif" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
 
-23-)Spring-Hoaxify API (Spring)
->Hoaxify is a basic social media app . Post,Put,Get methods with ResponseEntity and Error handling . Attempted to comply with API standards
+### ⭐ SignalR Restaurant Project
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square)
 
-[GO to Project  ](https://github.com/sedatbilece/Spring-Hoaxify)
-***
+Basic CRUD app with real-time frontend updates using SignalR.
 
-22-)Hoaxify-Frontend  (React)
->Hoaxify is a basic social media app . This repo for frontend
+[→ View Project](https://github.com/sedatbilece/SignalRProject)
 
-[GO to Project  ](https://github.com/sedatbilece/Hoaxify-Frontend)
-***
+</td>
+</tr></table>
+</td></tr>
 
-21-)Undo Dots Canvas App  (React)
->when you click on the screen , it will create a dot and you can undo it by pressing the undo button (History Management)
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/Turkish%20Number%20To%20Integer%20Converter%20API.png" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
 
-[GO to Project  ](https://github.com/sedatbilece/React-Undo-Dots)
-***
+### ⭐ Turkish Number To Integer Converter API
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![API](https://img.shields.io/badge/API-blue?style=flat-square)
 
-20-)Basic QuestApp API  (Spring)
->Basic spring Api for learning Spring Boot
+Converts numbers written in various Turkish formats to their numeric equivalents.
 
-[GO to Project  ](https://github.com/sedatbilece/Spring-QuestApp)
-***
+[→ View Project](https://github.com/sedatbilece/TurkishNumberToIntegerConverterAPI)
 
-20-)Autocomplete Search  (React)
->Simple react auto search complete project ,data get dynamicly from backend and db
+</td>
+</tr></table>
+</td></tr>
 
-[GO to Project  ](https://github.com/sedatbilece/React-Autocomplete-Search)
-***
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/LawFirmTemplate.gif" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
 
-19-)FireBase Authentication  (React)
->In this project just try to do firebase auth in react app
+### ⭐ LawFirmTemplate
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat-square)
 
-[GO to Project  ](https://github.com/sedatbilece/React-Firebase-Auth)
-***
+Law firm promotion website with dynamic feature fields.
 
-18-)N Layer API (.Net Core API)
->Basic design on products and categories with 3 layers
+[→ View Project](https://github.com/sedatbilece/LawFirmTemplate)
 
-[GO to Project  ](https://github.com/sedatbilece/.NET-Core-NLayer-API)
-***
+</td>
+</tr></table>
+</td></tr>
 
-17-)Spotify Clone (React)
->React Spotify Clone with Tailwind
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/MicroService-CourseApp.png" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
 
-[GO to Project  ](https://github.com/sedatbilece/React-Spotify-Clone)
-***
+### ⭐ MicroService-CourseApp
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-512BD4?style=flat-square)
 
+Microservice architecture for course purchasing and related transactions.
 
-16-)CodeBooks Blog Website (Asp.net Core 5.0)
->This project was hastily done by me in a short period . CRUD operations , EF , Authentication , CKeditor are used . Ready template modified for frontend
+[→ View Project](https://github.com/sedatbilece/MicroServices-CourseApp)
 
-[GO to Project  ](https://github.com/sedatbilece/CodeBooks)
-***
+</td>
+</tr></table>
+</td></tr>
 
-15-)Weather App (React)
->Weather app with fetch API and Hooks
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/ElasticSearch%20based%20API.png" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
 
-[GO to Project  ](https://github.com/sedatbilece/React-Weather-App)
-***
+### ⭐ ElasticSearch based API
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-14-)Onboarding Tour (React)
->Onboarding Tour Card is take dynamically steps , reposition card and show title and text
+Elasticsearch requests via NEST library on .NET Core.
 
-[GO to Project  ](https://github.com/sedatbilece/React-Onboarding-Tour)
-***
+[→ View Project](https://github.com/sedatbilece/ElasticSearchWithNet)
 
-13-)Notes-App (Node.js)
->Note application running on console using Node.js
+</td>
+</tr></table>
+</td></tr>
 
-[GO to Project  ](https://github.com/sedatbilece/Notes-App)
-***
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/RabbitMQ%20Watermark%20%26%20Excel%20App.gif" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
 
+### ⭐ RabbitMQ Watermark & Excel App
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-12-)Restfull API (PHP-Laravel API)
-[GO to Project  ](https://github.com/sedatbilece/PHP/tree/master/LaravelProjects/first-app)
-***
+RabbitMQ messaging with BackgroundService (Watermark) and WorkerService (Excel).
 
+[→ View Project](https://github.com/sedatbilece/RabbitMQ-Apps)
 
-11-)Image List App ( REACT - TAILWIND)
-> A project that aims to take and display the pictures that come with an api request. .
-> `API image request` , `binding` , `controlled and uncontrolled forms` ve `communication between components` .
+</td>
+</tr></table>
+</td></tr>
 
-[GO to Project  ](https://github.com/sedatbilece/React-Projects/tree/master/imagelist-app)
-***
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/WebLinkSearcher.png" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
 
+### ⭐ WebLinkSearcher
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Console](https://img.shields.io/badge/Console_App-333?style=flat-square)
 
-10-) Blog Project with layered ( .NET Core 5.0) 
-[GO to Project  ](https://github.com/sedatbilece/ASP.NET-Core-5.0-Blog-Project)
-***
+Console app that reads a web page and extracts all links.
 
-9-) Shopping Project ( e-ticaret ) ( PHP)
-[GO to Project  ](https://github.com/sedatbilece/Shopping-Project)
-***
-8 -) CV Website Project(  .NET MVC5 )
-[GO to Project  ](https://github.com/sedatbilece/CvProject)
-***
+[→ View Project](https://github.com/sedatbilece/WebLinkSearcher)
 
-7-)N Layer API Project ( .NET Core API )
-[GO to Project  ](https://github.com/sedatbilece/NLayerProject)
-***
-6-) This project includes how we do image uploading and use path name ( .NET Core MVC )
-[GO to Project  ](https://github.com/sedatbilece/asp.net-core-image-uploading)
-***
+</td>
+</tr></table>
+</td></tr>
 
-5-) This project includes use of text editor (ckeditor) ( .NET Core MVC)
-[GO to Project  ](https://github.com/sedatbilece/asp.net-core-texteditor-using)
-***
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/Identity%20MVC%20Membership%20App.png" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
 
+### ⭐ Identity MVC Membership App
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Identity](https://img.shields.io/badge/Identity-512BD4?style=flat-square)
 
-4-) Market project with categories and foods ( .NET Core MVC)
-[GO to Project  ](https://github.com/sedatbilece/CoreAndFood)
-***
+Sample app demonstrating .NET Core Identity membership system.
 
-3-)This project was developed in conjunction with a company automation series . ( .NET Core MVC )
-[GO to Project  ](https://github.com/sedatbilece/asp.net-core-company-automation-project)
-***
+[→ View Project](https://github.com/sedatbilece/.Net-Core-Identity-MVC)
 
-2-) This is my firs asp.net core testing project (.NET Core MVC )
-   [GO to Project  ](https://github.com/sedatbilece/asp.net-core-library-project)
-***
+</td>
+</tr></table>
+</td></tr>
 
-1-)This project is my first web project . I coding this using just css and html   
-    [GO to Project  ](https://github.com/sedatbilece/my-first-page)
-***
+<tr><td>
 
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
 
+### ⭐ Entity Framework Core 6
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square)
 
+Code samples and exercises for learning Entity Framework Core.
 
+[→ View Project](https://github.com/sedatbilece/Entity-Framework-Core-6)
 
+</td></tr>
 
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/Onboarding%20Library.gif" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
 
+### ⭐ Onboarding Library
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+Onboarding components built with the internship trainee team.
+
+[→ View Project](https://github.com/sedatbilece/jotform-internteam-project)
+
+</td>
+</tr></table>
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Spring-Hoaxify API
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+Social media API with Post/Put/Get, ResponseEntity, and error handling.
+
+[→ View Project](https://github.com/sedatbilece/Spring-Hoaxify)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Hoaxify Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+Frontend for a basic social media app (Hoaxify).
+
+[→ View Project](https://github.com/sedatbilece/Hoaxify-Frontend)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Undo Dots Canvas App
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+Click to create dots on canvas; undo via history management.
+
+[→ View Project](https://github.com/sedatbilece/React-Undo-Dots)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Basic QuestApp API
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+Basic Spring Boot API built for learning purposes.
+
+[→ View Project](https://github.com/sedatbilece/Spring-QuestApp)
+
+</td></tr>
+
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/Autocomplete%20Search.gif" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
+
+### ⭐ Autocomplete Search
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+Auto-complete search with dynamic data from backend/db.
+
+[→ View Project](https://github.com/sedatbilece/React-Autocomplete-Search)
+
+</td>
+</tr></table>
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Firebase Authentication
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+Firebase authentication integration in a React app.
+
+[→ View Project](https://github.com/sedatbilece/React-Firebase-Auth)
+
+</td></tr>
+
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/N%20Layer%20API.png" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
+
+### ⭐ N Layer API
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![API](https://img.shields.io/badge/API-blue?style=flat-square)
+
+Product and category management with 3-layer architecture.
+
+[→ View Project](https://github.com/sedatbilece/.NET-Core-NLayer-API)
+
+</td>
+</tr></table>
+</td></tr>
+
+<tr><td>
+<table><tr>
+<td width="300" valign="top"><img src="Docs/Spotify%20Clone.gif" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
+
+### ⭐ Spotify Clone
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+Spotify UI clone built with React and Tailwind CSS.
+
+[→ View Project](https://github.com/sedatbilece/React-Spotify-Clone)
+
+</td>
+</tr></table>
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ CodeBooks Blog Website
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core_5.0-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF](https://img.shields.io/badge/EF-512BD4?style=flat-square)
+
+CRUD blog with EF, Authentication, CKEditor. Ready template modified for frontend.
+
+[→ View Project](https://github.com/sedatbilece/CodeBooks)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Weather App
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+Weather app using Fetch API and React Hooks.
+
+[→ View Project](https://github.com/sedatbilece/React-Weather-App)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Onboarding Tour
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+Dynamic onboarding card with repositioning, title, and text steps.
+
+[→ View Project](https://github.com/sedatbilece/React-Onboarding-Tour)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Notes App
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Console](https://img.shields.io/badge/Console_App-333?style=flat-square)
+
+Console-based note-taking application using Node.js.
+
+[→ View Project](https://github.com/sedatbilece/Notes-App)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ RESTful API
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+RESTful API built with PHP and Laravel.
+
+[→ View Project](https://github.com/sedatbilece/PHP/tree/master/LaravelProjects/first-app)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Image List App
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+Fetches and displays images from an API. Covers binding, forms, and component communication.
+
+[→ View Project](https://github.com/sedatbilece/React-Projects/tree/master/imagelist-app)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Blog Project with Layered Architecture
+![.NET](https://img.shields.io/badge/.NET_Core_5.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+Layered architecture blog project built with .NET Core 5.0.
+
+[→ View Project](https://github.com/sedatbilece/ASP.NET-Core-5.0-Blog-Project)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Shopping Project
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![E-Commerce](https://img.shields.io/badge/E--Commerce-orange?style=flat-square)
+
+E-commerce shopping project built with PHP.
+
+[→ View Project](https://github.com/sedatbilece/Shopping-Project)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ CV Website Project
+![.NET](https://img.shields.io/badge/.NET_MVC5-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+Personal CV website built with ASP.NET MVC5.
+
+[→ View Project](https://github.com/sedatbilece/CvProject)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ N Layer API Project
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![API](https://img.shields.io/badge/API-blue?style=flat-square)
+
+N-layer architecture API project.
+
+[→ View Project](https://github.com/sedatbilece/NLayerProject)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Image Uploading
+![.NET](https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+Image upload handling and path management in .NET Core MVC.
+
+[→ View Project](https://github.com/sedatbilece/asp.net-core-image-uploading)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Text Editor (CKEditor)
+![.NET](https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+Integration of CKEditor rich text editor into .NET Core MVC.
+
+[→ View Project](https://github.com/sedatbilece/asp.net-core-texteditor-using)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Market Project
+![.NET](https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+Market app with categories and food items.
+
+[→ View Project](https://github.com/sedatbilece/CoreAndFood)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Company Automation Project
+![.NET](https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+Company automation system developed alongside a tutorial series.
+
+[→ View Project](https://github.com/sedatbilece/asp.net-core-company-automation-project)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ Library Project
+![.NET](https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+First ASP.NET Core testing project — a library management app.
+
+[→ View Project](https://github.com/sedatbilece/asp.net-core-library-project)
+
+</td></tr>
+
+<tr><td>
+
+<!-- thumbnail: <img src="" width="300" style="border-radius:6px"/> -->
+
+### ⭐ My First Web Page
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+First ever web project — built with pure HTML and CSS.
+
+[→ View Project](https://github.com/sedatbilece/my-first-page)
+
+</td></tr>
+
+</table>
