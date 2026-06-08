@@ -12,6 +12,22 @@
 
 <tr><td>
 <table><tr>
+<td width="300" valign="top"><img src="Docs/CarExpertApp.png" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
+
+### ⭐ CarExpertApp
+![.NET](https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+Web app for digitalizing automotive appraisal processes — authorization, customer management, appraisals, and reporting.
+
+[→ View Project](https://github.com/sedatbilece/CarExpertApp)
+
+</td>
+</tr></table>
+</td></tr>
+
+<tr><td>
+<table><tr>
 <td width="300" valign="top"><img src="Docs/Flow%20Launcher%20Terminal%20Shortcuts%20Plugin.png" width="300" style="border-radius:6px"/></td>
 <td valign="top" style="padding-left:16px">
 
