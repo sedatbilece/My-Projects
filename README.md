@@ -12,6 +12,22 @@
 
 <tr><td>
 <table><tr>
+<td width="300" valign="top"><img src="Docs/DmsAIChatBot.png" width="300" style="border-radius:6px"/></td>
+<td valign="top" style="padding-left:16px">
+
+### ⭐ DmsAIChatBot
+![.NET](https://img.shields.io/badge/.NET_10_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-blueviolet?style=flat-square)
+
+Local RAG document assistant — upload PDFs and query them in natural language. Runs fully offline with Ollama (LLM + embeddings), Qdrant vector search, and ASP.NET Identity for auth and role/claim management.
+
+[→ View Project](https://github.com/sedatbilece/DmsBot)
+
+</td>
+</tr></table>
+</td></tr>
+
+<tr><td>
+<table><tr>
 <td width="300" valign="top"><img src="Docs/CarExpertApp.png" width="300" style="border-radius:6px"/></td>
 <td valign="top" style="padding-left:16px">
 
